@@ -27,4 +27,5 @@
 * Get more challenging if possible near the end. 
 * Maybe have the last question challenge them on something we haven't taught them yet which would require them googling it?
 
+
 <a href='https://learn.co/lessons/MathBoolOpLab' data-visibility='hidden'>View this lesson on Learn.co</a>
