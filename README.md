@@ -1,20 +1,30 @@
-# Mathbooloplab
+# Math, Booleans & Operators
 
-## Objectives
+![Maya Angelou](https://www.poets.org/sites/default/files/styles/286x289/public/images/biographies/mangelou.jpg?itok=i7zceaOs)
+> Try to be a rainbow in someone's cloud.  
+[-Maya Angelou](https://en.wikipedia.org/wiki/Maya_Angelou#Critical_reception)
 
-1. Objective 1
-2. Objective 2.
 
-## Instructions
+## Learning Objectives - The student should be able to..
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+* Be comfortable working on their own with what they learned from the following readme's:
+	* [Math reading](https://github.com/learn-co-curriculum/swift-math-readme)
+	* [Booleans & Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+## What the student can do at this point 
 
-### Part 1: Do Some Stuff
+* Create variables and constants
+* Is familiar with type annotations, type inference and string interpolation.
+* Can create functions with return types.
+* Is familiar with the String, Int & Double type.
+* Utilize the available math operators
+* Knows of the Bool type and the various comparison & logical operators.
 
-## Resources
+## Outline / Notes
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+*  15-20 questions reasonable? Is that too much??
+* Start with some easy wins for the student to solidify the basics and have them becoming more familiar with the syntax as they type it out.
+* Get more challenging if possible near the end. 
+* Maybe have the last question challenge them on something we haven't taught them yet which would require them googling it?
 
 <a href='https://learn.co/lessons/MathBoolOpLab' data-visibility='hidden'>View this lesson on Learn.co</a>
