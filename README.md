@@ -3,7 +3,6 @@
 ![Maya Angelou](https://www.poets.org/sites/default/files/styles/286x289/public/images/biographies/mangelou.jpg?itok=i7zceaOs)
 > Try to be a rainbow in someone's cloud.    
 
-[-Maya Angelou](https://en.wikipedia.org/wiki/Maya_Angelou)
 
 
 ## Learning Objectives - The student should be able to..
