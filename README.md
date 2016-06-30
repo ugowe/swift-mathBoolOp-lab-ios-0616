@@ -1,31 +1,29 @@
 # Math, Booleans & Operators
 
-![Maya Angelou](https://www.poets.org/sites/default/files/styles/286x289/public/images/biographies/mangelou.jpg?itok=i7zceaOs)
-> Try to be a rainbow in someone's cloud.    
+![Maya Angelou](http://i.imgur.com/kFzANc8.jpg?1)
+> Try to be a rainbow in someone's cloud. -[Maya Angelou](https://en.wikipedia.org/wiki/Maya_Angelou)
 
 
 
-## Learning Objectives - The student should be able to..
+## Learning Objectives
 
 * Be comfortable working on their own with what they learned from the following readme's:
 	* [Math reading](https://github.com/learn-co-curriculum/swift-math-readme)
 	* [Booleans & Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
 
-## What the student can do at this point 
 
-* Create variables and constants
-* Is familiar with type annotations, type inference and string interpolation.
-* Can create functions with return types.
-* Is familiar with the String, Int & Double type.
-* Utilize the available math operators
-* Knows of the Bool type and the various comparison & logical operators.
 
-## Outline / Notes
+## Instructions
 
-*  15-20 questions reasonable? Is that too much??
-* Start with some easy wins for the student to solidify the basics and have them becoming more familiar with the syntax as they type it out.
-* Get more challenging if possible near the end. 
-* Maybe have the last question challenge them on something we haven't taught them yet which would require them googling it?
+* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
+* There are no tests associated with this playground file.
+* The following two screenshots are included to assist you in case the file doesn't open right to the main.swift file (which it should by default).
+* Make sure you're working in the main.swift file (which you can view by pressing command + 0):
+
+![main](http://i.imgur.com/odAU8pd.png)
+* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
+
+![render](http://i.imgur.com/vCIhFbZ.png)
 
 
 <a href='https://learn.co/lessons/MathBoolOpLab' data-visibility='hidden'>View this lesson on Learn.co</a>
